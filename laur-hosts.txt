@@ -1,6 +1,6 @@
 # My personal hosts list
 # I'm using this list with Pi-Hole to block all ads on my network.
-#
+# Last Update: 18-03-2017
 ###
 
 # Ads servers + Ads redirects(bad ads because some redirect to malware software)
@@ -23,3 +23,94 @@
 0.0.0.0 iwantuonly.com
 
 #Bad websites - fake, phising (soon)
+0.0.0.0 3x.ro
+0.0.0.0 activ-forte.com
+0.0.0.0 apps-web-store.net
+0.0.0.0 campaignsender.ro
+0.0.0.0 certificateiso.ro
+0.0.0.0 cesiune.ro
+0.0.0.0 contemposhop.eu
+0.0.0.0 converse-all-star.ro
+0.0.0.0 converse-allstar.ro
+0.0.0.0 cremaminune.ro
+0.0.0.0 dvdlovers.org
+0.0.0.0 ecobricolaj.ro
+0.0.0.0 evrida.ro
+0.0.0.0 excellentfigure.com
+0.0.0.0 fashiontribes.ro
+0.0.0.0 foartetare.eu
+0.0.0.0 foartetare.eu
+0.0.0.0 great4mylife.com
+0.0.0.0 groupoff.ro
+0.0.0.0 hi2.ro
+0.0.0.0 hostyfy.com
+0.0.0.0 hotelmercurminerva.ro
+0.0.0.0 iareduceri.eu
+0.0.0.0 idunne.com
+0.0.0.0 infolosultau.eu
+0.0.0.0 izzyreduceri.ro
+0.0.0.0 jocuricorporate.com
+0.0.0.0 justfitartstudio.ro
+0.0.0.0 kidstep.ro
+0.0.0.0 last-torrents.org
+0.0.0.0 lastfile.ro
+0.0.0.0 lastfiles.net
+0.0.0.0 lenjerii.org
+0.0.0.0 lenjeriipat-outlet.ro
+0.0.0.0 libertatea.info
+0.0.0.0 lipo53.ro
+0.0.0.0 mailagent.ro
+0.0.0.0 mareea.ro
+0.0.0.0 melimeloparis.ro
+0.0.0.0 mesterproduse.eu
+0.0.0.0 modlet.ro
+0.0.0.0 myhealthyblog.info
+0.0.0.0 new-b.ro
+0.0.0.0 optimashop.ro
+0.0.0.0 outlet-rayban.ro
+0.0.0.0 panipromo.com
+0.0.0.0 parfumul.net
+0.0.0.0 pentalog.ro
+0.0.0.0 presamedicala.com
+0.0.0.0 propantofi.eu
+0.0.0.0 rbromania.com
+0.0.0.0 relatiidiscrete.ro
+0.0.0.0 s77.ro
+0.0.0.0 sacividat.ro
+0.0.0.0 seedfile.ro
+0.0.0.0 shoppingnewsletters.com
+0.0.0.0 silueta-perfecta.ro
+0.0.0.0 smdela.com
+0.0.0.0 softopt.eu
+0.0.0.0 spshop.eu
+0.0.0.0 stereomag.ro
+0.0.0.0 teleprod.eu
+0.0.0.0 thefile.ro
+0.0.0.0 torrentbits.net
+0.0.0.0 torrentsfile.com
+0.0.0.0 treburilecasei.eu
+0.0.0.0 trendymag.eu
+0.0.0.0 trimiteemail.info
+0.0.0.0 vacante2015.com
+0.0.0.0 vacante2016.eu
+0.0.0.0 vacantelastminute.info
+0.0.0.0 vendiup.com
+0.0.0.0 indeeway.ro
+0.0.0.0 isp4free.info
+0.0.0.0 areafile.ro
+0.0.0.0 merinodream-ro.com
+0.0.0.0 camerawifi-ro.com
+0.0.0.0 roboutiqe.eu
+0.0.0.0 home-boutiqe.ro
+0.0.0.0 uiassan.com
+0.0.0.0 for-men-ultimate.com
+0.0.0.0 myhealthyblog.co
+0.0.0.0 idey.ro
+0.0.0.0 williams-sonona.com
+0.0.0.0 fierastraieculant-ro.com
+0.0.0.0 fstreet.eu
+0.0.0.0 gogole.ro
+0.0.0.0 peicipecolo.eu
+0.0.0.0 abrtn.pro
+0.0.0.0 babyneeds.ro
+0.0.0.0 branturi-slabit.ro

@@ -24,7 +24,6 @@
 0.0.0.0 b.scorecardresearch.com
 0.0.0.0 bounceexchange.com
 0.0.0.0 bs.serving-sys.com
-0.0.0.0 connect.facebook.net
 0.0.0.0 content.bitsontherun.com
 0.0.0.0 core.insightexpressai.com
 0.0.0.0 crashdump.spotify.com

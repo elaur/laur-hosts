@@ -4,6 +4,31 @@
 ###
 
 # Ads servers + Ads redirects(bad ads because some redirect to malware software)
+0.0.0.0 166cd0ac1454aef5c0.com
+0.0.0.0 98a365dee89e744b.com
+0.0.0.0 004b17a0c349157de.com
+0.0.0.0 4f941a91590f2c1f0.com
+0.0.0.0 addons-mozilla.com
+0.0.0.0 ca29ae96c40303ccfda.com
+0.0.0.0 908d7e82396.com
+0.0.0.0 ve4462a49a393.com
+0.0.0.0 c13b2beea116e.com
+0.0.0.0 f5b44da3a1ab55.com
+0.0.0.0 edb63c043128931.com
+0.0.0.0 v0194c6fcbb3.com
+0.0.0.0 0c11cf900ec91e.com
+0.0.0.0 48d68bec12064b0012e.com
+0.0.0.0 760d4b269ea7.com
+0.0.0.0 7636ca6cb9fc.com
+0.0.0.0 88157e3ba3f.com
+0.0.0.0 917909440506a7e2e.com
+0.0.0.0 aa9be8ac5ce181b104.com
+0.0.0.0 af413ab53fd5e529.com
+0.0.0.0 be96a951a802534.com
+0.0.0.0 d276dbe50af7e29d81.com
+0.0.0.0 d7921da5d4c24.com
+0.0.0.0 eb9581e6f27ce7b4.com
+0.0.0.0 fdf96bba78a9249ca4e.com
 0.0.0.0 fdf96bba78a9249ca4e.com
 0.0.0.0 88157e3ba3f.com
 0.0.0.0 7636ca6cb9fc.com
@@ -17,7 +42,6 @@
 0.0.0.0 buzzadnetwork.com
 0.0.0.0 www.buzzadnetwork.com
 0.0.0.0 adkmob.com
-0.0.0.0 88157e3ba3f.com
 0.0.0.0 cdn.beyondhosting.net
 0.0.0.0 go.we-re-almost-there.com
 0.0.0.0 go.eu-reliabletracking.net

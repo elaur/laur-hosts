@@ -1,7 +1,7 @@
 # My personal hosts list
 # I'm using this list with Pi-Hole to block all ads on my network.
 # Last Update: 19-03-2017
-###
+###TEST###
 
 #Spotify ad block
 #0.0.0.0 ap.spotify.com

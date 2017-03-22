@@ -76,6 +76,7 @@
 0.0.0.0 www.omaze.com
 
 # Ads servers + Ads redirects(bad ads because some redirect to malware software)
+0.0.0.0 bdafhnltyxlw.com
 0.0.0.0 166cd0ac1454aef5c0.com
 0.0.0.0 98a365dee89e744b.com
 0.0.0.0 004b17a0c349157de.com

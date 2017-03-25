@@ -6,66 +6,71 @@
 0.0.0.0 2parale.ro
 0.0.0.0 2performant.com
 0.0.0.0 adkmob.com
+0.0.0.0 adx.g.doubleclick.net
 0.0.0.0 api.2performant.com
 0.0.0.0 awy.halonringside.download
+0.0.0.0 beacon.deepintent.com
 0.0.0.0 buzzadnetwork.com
 0.0.0.0 c.adskeeper.co.uk
+0.0.0.0 cbsi.report-uri.io
+0.0.0.0 cdn.3lift.com
 0.0.0.0 cdn.adtrue.com
 0.0.0.0 cdn.beyondhosting.net
 0.0.0.0 cm.ctnsnet.com
 0.0.0.0 cm.everesttech.net
+0.0.0.0 collect.mxapis.com
+0.0.0.0 content.invisioncic.com
+0.0.0.0 ds.reson8.com
 0.0.0.0 e.crashlytics.com
 0.0.0.0 easylist.club
 0.0.0.0 endpoint1.collection.eu.sumologic.com
 0.0.0.0 exchange.adtrue.com
+0.0.0.0 gak.webtoons.com
+0.0.0.0 global.apis.naver.com
 0.0.0.0 go.eu-reliabletracking.net
 0.0.0.0 go.we-re-almost-there.com
 0.0.0.0 image6.pubmatic.com
 0.0.0.0 infobizyours.info
+0.0.0.0 invisioncic.com
+0.0.0.0 invisioncloudstats.com
 0.0.0.0 iwantuonly.com
+0.0.0.0 loc.map.baidu.com
 0.0.0.0 m.goadservices.com
 0.0.0.0 match.adsby.bidtheatre.com
+0.0.0.0 mekoto.com
+0.0.0.0 nelo2-col.nhncorp.com
 0.0.0.0 owlanalytics.io
 0.0.0.0 p.jwpcdn.com
 0.0.0.0 partner.mediawallahscript.com
 0.0.0.0 pubmatic2waycm-atl.netmng.com
+0.0.0.0 pushstatic.mxapis.com
 0.0.0.0 qualitysocialtargeting.liqwid.net
+0.0.0.0 rec-beta.smartlook.com
+0.0.0.0 rec.smartlook.com
+0.0.0.0 rp.gwallet.com
 0.0.0.0 rtbp-pixel.us.metanetwork.net
 0.0.0.0 rules.quantcount.com
+0.0.0.0 s2.smartlook.com
+0.0.0.0 s7.smartsupp.com
+0.0.0.0 sapi.skyhookwireless.com
+0.0.0.0 smartsupp-widget-161959.c.cdn77.org
+0.0.0.0 source.invisioncloudstats.com
 0.0.0.0 special-promotions-uk.club
 0.0.0.0 srv1.clk-analytics.com
+0.0.0.0 static.smartsupp.co
 0.0.0.0 sync.adotmob.com
 0.0.0.0 track.adtrue.com
 0.0.0.0 tracker.trafficktrack.com
 0.0.0.0 trafficktrack.com
 0.0.0.0 v.jwpcdn.com
 0.0.0.0 winter-rewards.club
-0.0.0.0 www.2parale.ro
-0.0.0.0 www.buzzadnetwork.com
-0.0.0.0 rp.gwallet.com
-0.0.0.0 ds.reson8.com
-0.0.0.0 beacon.deepintent.com
-0.0.0.0 adx.g.doubleclick.net
-0.0.0.0 cbsi.report-uri.io
-0.0.0.0 s7.smartsupp.com
-0.0.0.0 rec.smartlook.com
-0.0.0.0 rec-beta.smartlook.com
-0.0.0.0 smartsupp-widget-161959.c.cdn77.org
-0.0.0.0 static.smartsupp.co
 0.0.0.0 writer.smartlook.com
-0.0.0.0 s2.smartlook.com
-0.0.0.0 cdn.3lift.com
-0.0.0.0 pushstatic.mxapis.com
-0.0.0.0 collect.mxapis.com
-0.0.0.0 www.nextadvisor.com #under_review
-0.0.0.0 www.match.com #under_review
-0.0.0.0 www.comparecards.com #under_review
+0.0.0.0 www.2parale.ro
 0.0.0.0 www.autotrader.com #under_review
-0.0.0.0 global.apis.naver.com
-0.0.0.0 nelo2-col.nhncorp.com
-0.0.0.0 gak.webtoons.com
-0.0.0.0 loc.map.baidu.com
-0.0.0.0 sapi.skyhookwireless.com
+0.0.0.0 www.buzzadnetwork.com
+0.0.0.0 www.comparecards.com #under_review
+0.0.0.0 www.match.com #under_review
+0.0.0.0 www.nextadvisor.com #under_review
 
 #Spotify ad block
 #0.0.0.0 ap.spotify.com

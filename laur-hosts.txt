@@ -42,6 +42,8 @@
 0.0.0.0 winter-rewards.club
 0.0.0.0 www.2parale.ro
 0.0.0.0 www.buzzadnetwork.com
+0.0.0.0 rp.gwallet.com
+
 
 #Spotify ad block
 #0.0.0.0 ap.spotify.com

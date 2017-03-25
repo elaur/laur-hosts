@@ -1,10 +1,24 @@
 # My personal hosts list
 # I'm using this list with Pi-Hole to block all ads on my network.
-# Last Update: 19-03-2017
-###TEST###2
+# Last Update: 25-03-2017
 
+# Ads servers + Ads redirects(bad ads because some redirect to malware software)
+0.0.0.0 2parale.ro
+0.0.0.0 2performant.com
+0.0.0.0 adkmob.com
+0.0.0.0 api.2performant.com
+0.0.0.0 buzzadnetwork.com
+0.0.0.0 cdn.beyondhosting.net
+0.0.0.0 e.crashlytics.com
+0.0.0.0 go.eu-reliabletracking.net
+0.0.0.0 go.we-re-almost-there.com
+0.0.0.0 iwantuonly.com
+0.0.0.0 special-promotions-uk.club
 0.0.0.0 tracker.trafficktrack.com
 0.0.0.0 trafficktrack.com
+0.0.0.0 winter-rewards.club
+0.0.0.0 www.2parale.ro
+0.0.0.0 www.buzzadnetwork.com
 
 #Spotify ad block
 #0.0.0.0 ap.spotify.com
@@ -78,55 +92,15 @@
 0.0.0.0 www.googletagservices.com
 0.0.0.0 www.omaze.com
 
-# Ads servers + Ads redirects(bad ads because some redirect to malware software)
-0.0.0.0 bdafhnltyxlw.com
-0.0.0.0 166cd0ac1454aef5c0.com
-0.0.0.0 98a365dee89e744b.com
-0.0.0.0 004b17a0c349157de.com
-0.0.0.0 4f941a91590f2c1f0.com
-0.0.0.0 addons-mozilla.com
-0.0.0.0 ca29ae96c40303ccfda.com
-0.0.0.0 908d7e82396.com
-0.0.0.0 ve4462a49a393.com
-0.0.0.0 c13b2beea116e.com
-0.0.0.0 f5b44da3a1ab55.com
-0.0.0.0 edb63c043128931.com
-0.0.0.0 v0194c6fcbb3.com
-0.0.0.0 0c11cf900ec91e.com
-0.0.0.0 48d68bec12064b0012e.com
-0.0.0.0 760d4b269ea7.com
-0.0.0.0 7636ca6cb9fc.com
-0.0.0.0 88157e3ba3f.com
-0.0.0.0 917909440506a7e2e.com
-0.0.0.0 aa9be8ac5ce181b104.com
-0.0.0.0 af413ab53fd5e529.com
-0.0.0.0 be96a951a802534.com
-0.0.0.0 d276dbe50af7e29d81.com
-0.0.0.0 d7921da5d4c24.com
-0.0.0.0 eb9581e6f27ce7b4.com
-0.0.0.0 fdf96bba78a9249ca4e.com
-0.0.0.0 fdf96bba78a9249ca4e.com
-0.0.0.0 88157e3ba3f.com
-0.0.0.0 7636ca6cb9fc.com
-0.0.0.0 special-promotions-uk.club
-0.0.0.0 e.crashlytics.com
-0.0.0.0 2performant.com
-0.0.0.0 winter-rewards.club
-0.0.0.0 2parale.ro
-0.0.0.0 www.2parale.ro
-0.0.0.0 api.2performant.com
-0.0.0.0 buzzadnetwork.com
-0.0.0.0 www.buzzadnetwork.com
-0.0.0.0 adkmob.com
-0.0.0.0 cdn.beyondhosting.net
-0.0.0.0 go.we-re-almost-there.com
-0.0.0.0 go.eu-reliabletracking.net
-0.0.0.0 iwantuonly.com
-
 #Bad websites - fake, phising (soon)
 0.0.0.0 3x.ro
+0.0.0.0 abrtn.pro
 0.0.0.0 activ-forte.com
 0.0.0.0 apps-web-store.net
+0.0.0.0 areafile.ro
+0.0.0.0 babyneeds.ro
+0.0.0.0 branturi-slabit.ro
+0.0.0.0 camerawifi-ro.com
 0.0.0.0 campaignsender.ro
 0.0.0.0 certificateiso.ro
 0.0.0.0 cesiune.ro
@@ -139,16 +113,24 @@
 0.0.0.0 evrida.ro
 0.0.0.0 excellentfigure.com
 0.0.0.0 fashiontribes.ro
+0.0.0.0 fierastraieculant-ro.com
 0.0.0.0 foartetare.eu
 0.0.0.0 foartetare.eu
+0.0.0.0 for-men-ultimate.com
+0.0.0.0 fstreet.eu
+0.0.0.0 gogole.ro
 0.0.0.0 great4mylife.com
 0.0.0.0 groupoff.ro
 0.0.0.0 hi2.ro
+0.0.0.0 home-boutiqe.ro
 0.0.0.0 hostyfy.com
 0.0.0.0 hotelmercurminerva.ro
 0.0.0.0 iareduceri.eu
+0.0.0.0 idey.ro
 0.0.0.0 idunne.com
+0.0.0.0 indeeway.ro
 0.0.0.0 infolosultau.eu
+0.0.0.0 isp4free.info
 0.0.0.0 izzyreduceri.ro
 0.0.0.0 jocuricorporate.com
 0.0.0.0 justfitartstudio.ro
@@ -163,19 +145,23 @@
 0.0.0.0 mailagent.ro
 0.0.0.0 mareea.ro
 0.0.0.0 melimeloparis.ro
+0.0.0.0 merinodream-ro.com
 0.0.0.0 mesterproduse.eu
 0.0.0.0 modlet.ro
+0.0.0.0 myhealthyblog.co
 0.0.0.0 myhealthyblog.info
 0.0.0.0 new-b.ro
 0.0.0.0 optimashop.ro
 0.0.0.0 outlet-rayban.ro
 0.0.0.0 panipromo.com
 0.0.0.0 parfumul.net
+0.0.0.0 peicipecolo.eu
 0.0.0.0 pentalog.ro
 0.0.0.0 presamedicala.com
 0.0.0.0 propantofi.eu
 0.0.0.0 rbromania.com
 0.0.0.0 relatiidiscrete.ro
+0.0.0.0 roboutiqe.eu
 0.0.0.0 s77.ro
 0.0.0.0 sacividat.ro
 0.0.0.0 seedfile.ro
@@ -192,26 +178,9 @@
 0.0.0.0 treburilecasei.eu
 0.0.0.0 trendymag.eu
 0.0.0.0 trimiteemail.info
+0.0.0.0 uiassan.com
 0.0.0.0 vacante2015.com
 0.0.0.0 vacante2016.eu
 0.0.0.0 vacantelastminute.info
 0.0.0.0 vendiup.com
-0.0.0.0 indeeway.ro
-0.0.0.0 isp4free.info
-0.0.0.0 areafile.ro
-0.0.0.0 merinodream-ro.com
-0.0.0.0 camerawifi-ro.com
-0.0.0.0 roboutiqe.eu
-0.0.0.0 home-boutiqe.ro
-0.0.0.0 uiassan.com
-0.0.0.0 for-men-ultimate.com
-0.0.0.0 myhealthyblog.co
-0.0.0.0 idey.ro
 0.0.0.0 williams-sonona.com
-0.0.0.0 fierastraieculant-ro.com
-0.0.0.0 fstreet.eu
-0.0.0.0 gogole.ro
-0.0.0.0 peicipecolo.eu
-0.0.0.0 abrtn.pro
-0.0.0.0 babyneeds.ro
-0.0.0.0 branturi-slabit.ro

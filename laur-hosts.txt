@@ -52,7 +52,6 @@
 0.0.0.0 rules.quantcount.com
 0.0.0.0 s2.smartlook.com
 0.0.0.0 s7.smartsupp.com
-0.0.0.0 sapi.skyhookwireless.com
 0.0.0.0 smartsupp-widget-161959.c.cdn77.org
 0.0.0.0 source.invisioncloudstats.com
 0.0.0.0 special-promotions-uk.club

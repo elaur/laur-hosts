@@ -25,6 +25,23 @@
 0.0.0.0 awy.halonringside.download
 0.0.0.0 srv1.clk-analytics.com
 0.0.0.0 easylist.club
+0.0.0.0 rtbp-pixel.us.metanetwork.net
+0.0.0.0 pubmatic2waycm-atl.netmng.com
+0.0.0.0 sync.adotmob.com
+0.0.0.0 track.adtrue.com
+0.0.0.0 cm.ctnsnet.com
+0.0.0.0 m.goadservices.com
+0.0.0.0 cm.everesttech.net
+0.0.0.0 endpoint1.collection.eu.sumologic.com
+0.0.0.0 image6.pubmatic.com
+0.0.0.0 match.adsby.bidtheatre.com
+0.0.0.0 exchange.adtrue.com
+0.0.0.0 cdn.adtrue.com
+0.0.0.0 owlanalytics.io
+0.0.0.0 qualitysocialtargeting.liqwid.net
+0.0.0.0 rules.quantcount.com
+0.0.0.0 partner.mediawallahscript.com
+0.0.0.0 c.adskeeper.co.uk
 
 #Spotify ad block
 #0.0.0.0 ap.spotify.com

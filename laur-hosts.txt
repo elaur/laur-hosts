@@ -24,6 +24,7 @@
 0.0.0.0 infobizyours.info
 0.0.0.0 awy.halonringside.download
 0.0.0.0 srv1.clk-analytics.com
+0.0.0.0 easylist.club
 
 #Spotify ad block
 #0.0.0.0 ap.spotify.com

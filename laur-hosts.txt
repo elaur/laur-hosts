@@ -104,6 +104,8 @@
 0.0.0.0 www.nextadvisor.com #under_review
 0.0.0.0 www.sfcckxdgfgzo.com
 0.0.0.0 www.zclxwzegqslr.com
+0.0.0.0 assets.mxapis.com
+0.0.0.0 serve.mxapis.com
 
 #Spotify ad block
 #0.0.0.0 ap.spotify.com

@@ -5,6 +5,7 @@
 # Ads servers + Ads redirects(bad ads because some redirect to malware software)
 0.0.0.0 2parale.ro
 0.0.0.0 2performant.com
+0.0.0.0 adexchangeprediction.com
 0.0.0.0 adkmob.com
 0.0.0.0 adx.g.doubleclick.net
 0.0.0.0 api.2performant.com
@@ -12,6 +13,7 @@
 0.0.0.0 beacon.deepintent.com
 0.0.0.0 buzzadnetwork.com
 0.0.0.0 c.adskeeper.co.uk
+0.0.0.0 c3.popads.net
 0.0.0.0 cbsi.report-uri.io
 0.0.0.0 cdn.3lift.com
 0.0.0.0 cdn.adtrue.com
@@ -34,6 +36,7 @@
 0.0.0.0 invisioncic.com
 0.0.0.0 invisioncloudstats.com
 0.0.0.0 iwantuonly.com
+0.0.0.0 jolic2.com
 0.0.0.0 loc.map.baidu.com
 0.0.0.0 m.goadservices.com
 0.0.0.0 match.adsby.bidtheatre.com
@@ -42,6 +45,8 @@
 0.0.0.0 owlanalytics.io
 0.0.0.0 p.jwpcdn.com
 0.0.0.0 partner.mediawallahscript.com
+0.0.0.0 popserve.adscpm.net
+0.0.0.0 powerhouse.go2cloud.org
 0.0.0.0 pubmatic2waycm-atl.netmng.com
 0.0.0.0 pushstatic.mxapis.com
 0.0.0.0 qualitysocialtargeting.liqwid.net
@@ -68,8 +73,13 @@
 0.0.0.0 www.autotrader.com #under_review
 0.0.0.0 www.buzzadnetwork.com
 0.0.0.0 www.comparecards.com #under_review
+0.0.0.0 www.comwgi.com
+0.0.0.0 www.hkoxlirf.com
+0.0.0.0 www.jolic2.com
 0.0.0.0 www.match.com #under_review
 0.0.0.0 www.nextadvisor.com #under_review
+0.0.0.0 www.sfcckxdgfgzo.com
+0.0.0.0 www.zclxwzegqslr.com
 
 #Spotify ad block
 #0.0.0.0 ap.spotify.com

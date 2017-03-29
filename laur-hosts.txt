@@ -226,6 +226,8 @@
 0.0.0.0 www.omaze.com
 0.0.0.0 thm.aws.rubiconproject.com
 0.0.0.0 flapi2.rubiconproject.com
+0.0.0.0 secure.trafic.ro
+0.0.0.0 ads.gadget.ro
 
 #Bad websites - fake, phising (soon)
 0.0.0.0 3x.ro

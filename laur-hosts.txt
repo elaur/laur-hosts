@@ -8,6 +8,7 @@
 0.0.0.0 aa.agkn.com
 0.0.0.0 adexchangeprediction.com
 0.0.0.0 adkmob.com
+0.0.0.0 ads.converge-digital.com
 0.0.0.0 adx.g.doubleclick.net
 0.0.0.0 api.2performant.com
 0.0.0.0 app.davebestdeals.com
@@ -32,9 +33,11 @@
 0.0.0.0 d2xvc2nqkduarq.cloudfront.net
 0.0.0.0 d3ieicw58ybon5.cloudfront.net
 0.0.0.0 d8f0l2cxoip4o.cloudfront.net
+0.0.0.0 data07.adlooxtracking.com
 0.0.0.0 ds.reson8.com
 0.0.0.0 e.crashlytics.com
 0.0.0.0 easylist.club
+0.0.0.0 embed.bannerflow.com
 0.0.0.0 endpoint1.collection.eu.sumologic.com
 0.0.0.0 eshopcomp.com
 0.0.0.0 etfyguytdr.com
@@ -66,7 +69,9 @@
 0.0.0.0 p.jwpcdn.com
 0.0.0.0 p4p-enmatch.alibaba.com
 0.0.0.0 partner.mediawallahscript.com
+0.0.0.0 pdw-adf.userreport.com
 0.0.0.0 pixel-origin.mathtag.com
+0.0.0.0 pixel.onaudience.com
 0.0.0.0 popserve.adscpm.net
 0.0.0.0 powerhouse.go2cloud.org
 0.0.0.0 pubmatic2waycm-atl.netmng.com
@@ -92,6 +97,7 @@
 0.0.0.0 static.smartsupp.co
 0.0.0.0 static1.pandoras.ro
 0.0.0.0 sync.adotmob.com
+0.0.0.0 sync.analytics.brandcrumb.com
 0.0.0.0 t.connectupdate.com
 0.0.0.0 t.local-finders.com
 0.0.0.0 t.sharethis.com
@@ -101,6 +107,7 @@
 0.0.0.0 tracker.trafficktrack.com
 0.0.0.0 tracking.overwolf.com
 0.0.0.0 trafficktrack.com
+0.0.0.0 unibet-unibet.bannerflow.com
 0.0.0.0 v.jwpcdn.com
 0.0.0.0 winter-rewards.club
 0.0.0.0 writer.smartlook.com

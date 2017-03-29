@@ -25,6 +25,7 @@
 0.0.0.0 cdn.beyondhosting.net
 0.0.0.0 cm.ctnsnet.com
 0.0.0.0 cm.everesttech.net
+0.0.0.0 codes.taggify.net
 0.0.0.0 collect.mxapis.com
 0.0.0.0 content.invisioncic.com
 0.0.0.0 count-server-lb.global.prod1.sharethis.net
@@ -65,6 +66,7 @@
 0.0.0.0 match.adsby.bidtheatre.com
 0.0.0.0 mekoto.com
 0.0.0.0 nelo2-col.nhncorp.com
+0.0.0.0 nexus-websocket-b.intercom.io
 0.0.0.0 owlanalytics.io
 0.0.0.0 p.jwpcdn.com
 0.0.0.0 p4p-enmatch.alibaba.com
@@ -123,8 +125,6 @@
 0.0.0.0 www.nextadvisor.com #under_review
 0.0.0.0 www.sfcckxdgfgzo.com
 0.0.0.0 www.zclxwzegqslr.com
-0.0.0.0 nexus-websocket-b.intercom.io
-0.0.0.0 codes.taggify.net
 
 #Spotify ad block
 #0.0.0.0 ap.spotify.com
@@ -196,6 +196,8 @@
 0.0.0.0 www.googleadservices.com
 0.0.0.0 www.googletagservices.com
 0.0.0.0 www.omaze.com
+0.0.0.0 thm.aws.rubiconproject.com
+0.0.0.0 flapi2.rubiconproject.com
 
 #Bad websites - fake, phising (soon)
 0.0.0.0 3x.ro
@@ -219,7 +221,6 @@
 0.0.0.0 excellentfigure.com
 0.0.0.0 fashiontribes.ro
 0.0.0.0 fierastraieculant-ro.com
-0.0.0.0 foartetare.eu
 0.0.0.0 foartetare.eu
 0.0.0.0 for-men-ultimate.com
 0.0.0.0 fstreet.eu
@@ -292,8 +293,14 @@
 0.0.0.0 www.directorproduse.ro
 
 #auto referring
+2.beeg.com
+creative.xhamsterlive.com
 m.perfectgirls.net
 oldyoungfuck.net
+p0.stripcdn.com
+p1.stripcdn.com
+p2.stripcdn.com
+tools.beeg.com
 www.driveprontube.com
 www.freetoptube.com
 www.home-made-videos.com
@@ -302,9 +309,3 @@ www.pornverified.com
 www.sexfreedomtube.com
 www.thumbnail-preview.com
 www.youtubelike.com
-creative.xhamsterlive.com
-p1.stripcdn.com
-p2.stripcdn.com
-p0.stripcdn.com
-2.beeg.com
-tools.beeg.com

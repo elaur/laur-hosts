@@ -12,6 +12,11 @@
 0.0.0.0 adx.g.doubleclick.net
 0.0.0.0 api.2performant.com
 0.0.0.0 app.davebestdeals.com
+0.0.0.0 app1.letslowbefast.world
+0.0.0.0 app2.letslowbefast.world
+0.0.0.0 app3.letslowbefast.world
+0.0.0.0 app4.letslowbefast.world
+0.0.0.0 app5.letslowbefast.world
 0.0.0.0 assets.mxapis.com
 0.0.0.0 awy.halonringside.download
 0.0.0.0 beacon.deepintent.com
@@ -23,6 +28,8 @@
 0.0.0.0 cdn.3lift.com
 0.0.0.0 cdn.adtrue.com
 0.0.0.0 cdn.beyondhosting.net
+0.0.0.0 cdn.hauleddes.com
+0.0.0.0 click.trkdf.com
 0.0.0.0 cm.ctnsnet.com
 0.0.0.0 cm.everesttech.net
 0.0.0.0 codes.taggify.net
@@ -35,6 +42,7 @@
 0.0.0.0 d3ieicw58ybon5.cloudfront.net
 0.0.0.0 d8f0l2cxoip4o.cloudfront.net
 0.0.0.0 data07.adlooxtracking.com
+0.0.0.0 djinst.com
 0.0.0.0 ds.reson8.com
 0.0.0.0 e.crashlytics.com
 0.0.0.0 easylist.club
@@ -42,6 +50,7 @@
 0.0.0.0 endpoint1.collection.eu.sumologic.com
 0.0.0.0 eshopcomp.com
 0.0.0.0 etfyguytdr.com
+0.0.0.0 ex.ibt.uk
 0.0.0.0 exchange.adtrue.com
 0.0.0.0 gak.webtoons.com
 0.0.0.0 gatewaynginx-davebestdeals-1862702698.us-west-2.elb.amazonaws.com
@@ -49,10 +58,15 @@
 0.0.0.0 go.eu-reliabletracking.net
 0.0.0.0 go.we-re-almost-there.com
 0.0.0.0 godaddy.sp1.convertro.com
+0.0.0.0 goodmacfaster.club
+0.0.0.0 hqt.enouncestwqgstye.top
+0.0.0.0 html.usagc.org
 0.0.0.0 i.cams.beeg.com
 0.0.0.0 image6.pubmatic.com
+0.0.0.0 imcounting.com
 0.0.0.0 img.cams.beeg.com
 0.0.0.0 infobizyours.info
+0.0.0.0 install.stream-it.online
 0.0.0.0 invisioncic.com
 0.0.0.0 invisioncloudstats.com
 0.0.0.0 istatic.bestpriceninja.com
@@ -60,12 +74,18 @@
 0.0.0.0 iwantuonly.com
 0.0.0.0 jolic2.com
 0.0.0.0 jsgnr.davebestdeals.com
+0.0.0.0 letslowbefast.world
 0.0.0.0 loc.map.baidu.com
 0.0.0.0 log.gds.mmstat.com
+0.0.0.0 lp.traders-community.com
 0.0.0.0 m.goadservices.com
 0.0.0.0 match.adsby.bidtheatre.com
 0.0.0.0 mekoto.com
+0.0.0.0 mm.mobii.info
+0.0.0.0 mobii.info
+0.0.0.0 morefastermac.trade
 0.0.0.0 nelo2-col.nhncorp.com
+0.0.0.0 newsbig.club
 0.0.0.0 nexus-websocket-b.intercom.io
 0.0.0.0 owlanalytics.io
 0.0.0.0 p.jwpcdn.com
@@ -74,6 +94,7 @@
 0.0.0.0 pdw-adf.userreport.com
 0.0.0.0 pixel-origin.mathtag.com
 0.0.0.0 pixel.onaudience.com
+0.0.0.0 pnrff.enouncestwqgstye.top
 0.0.0.0 popserve.adscpm.net
 0.0.0.0 powerhouse.go2cloud.org
 0.0.0.0 pubmatic2waycm-atl.netmng.com
@@ -106,11 +127,14 @@
 0.0.0.0 tags.wdc.bluekai.com
 0.0.0.0 track-eu.adformnet.akadns.net
 0.0.0.0 track.adtrue.com
+0.0.0.0 trackedgr8.com
 0.0.0.0 tracker.trafficktrack.com
 0.0.0.0 tracking.overwolf.com
 0.0.0.0 trafficktrack.com
+0.0.0.0 trkdf.com
 0.0.0.0 unibet-unibet.bannerflow.com
 0.0.0.0 v.jwpcdn.com
+0.0.0.0 vol.trkdf.com
 0.0.0.0 winter-rewards.club
 0.0.0.0 writer.smartlook.com
 0.0.0.0 www-googletagmanager.l.google.com
@@ -120,8 +144,10 @@
 0.0.0.0 www.comparecards.com #under_review
 0.0.0.0 www.comwgi.com
 0.0.0.0 www.hkoxlirf.com
+0.0.0.0 www.imcounting.com
 0.0.0.0 www.jolic2.com
 0.0.0.0 www.match.com #under_review
+0.0.0.0 www.mb104.com
 0.0.0.0 www.nextadvisor.com #under_review
 0.0.0.0 www.sfcckxdgfgzo.com
 0.0.0.0 www.zclxwzegqslr.com

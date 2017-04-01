@@ -89,11 +89,14 @@
 0.0.0.0 nexus-websocket-b.intercom.io
 0.0.0.0 owlanalytics.io
 0.0.0.0 p.jwpcdn.com
+0.0.0.0 p.videologygroup.com
 0.0.0.0 p4p-enmatch.alibaba.com
 0.0.0.0 partner.mediawallahscript.com
 0.0.0.0 pdw-adf.userreport.com
 0.0.0.0 pixel-origin.mathtag.com
+0.0.0.0 pixel.ideaiotic.com
 0.0.0.0 pixel.onaudience.com
+0.0.0.0 platform1.admobe.com
 0.0.0.0 pnrff.enouncestwqgstye.top
 0.0.0.0 popserve.adscpm.net
 0.0.0.0 powerhouse.go2cloud.org
@@ -116,9 +119,11 @@
 0.0.0.0 smartsupp-widget-161959.c.cdn77.org
 0.0.0.0 source.invisioncloudstats.com
 0.0.0.0 special-promotions-uk.club
+0.0.0.0 spotx-match.dotomi.com
 0.0.0.0 srv1.clk-analytics.com
 0.0.0.0 static.smartsupp.co
 0.0.0.0 static1.pandoras.ro
+0.0.0.0 sxp.mxptint.net
 0.0.0.0 sync.adotmob.com
 0.0.0.0 sync.analytics.brandcrumb.com
 0.0.0.0 t.connectupdate.com
@@ -133,6 +138,7 @@
 0.0.0.0 trafficktrack.com
 0.0.0.0 trkdf.com
 0.0.0.0 unibet-unibet.bannerflow.com
+0.0.0.0 usersync.videoamp.com
 0.0.0.0 v.jwpcdn.com
 0.0.0.0 vol.trkdf.com
 0.0.0.0 winter-rewards.club
@@ -151,8 +157,8 @@
 0.0.0.0 www.nextadvisor.com #under_review
 0.0.0.0 www.sfcckxdgfgzo.com
 0.0.0.0 www.zclxwzegqslr.com
-0.0.0.0 pixel.ideaiotic.com
-0.0.0.0 platform1.admobe.com
+0.0.0.0 yt.moatads.com
+0.0.0.0 yts.moatads.com
 
 #Spotify ad block
 #0.0.0.0 ap.spotify.com

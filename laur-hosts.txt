@@ -102,6 +102,7 @@
 0.0.0.0 powerhouse.go2cloud.org
 0.0.0.0 pubmatic2waycm-atl.netmng.com
 0.0.0.0 pushstatic.mxapis.com
+0.0.0.0 pushstatic2.mxapis.com
 0.0.0.0 qualitysocialtargeting.liqwid.net
 0.0.0.0 query.jollywallet.com
 0.0.0.0 rc-ext.rlcdn.com
@@ -138,6 +139,7 @@
 0.0.0.0 trafficktrack.com
 0.0.0.0 trkdf.com
 0.0.0.0 unibet-unibet.bannerflow.com
+0.0.0.0 urladviser.com
 0.0.0.0 usersync.videoamp.com
 0.0.0.0 v.jwpcdn.com
 0.0.0.0 vol.trkdf.com
@@ -159,6 +161,7 @@
 0.0.0.0 www.zclxwzegqslr.com
 0.0.0.0 yt.moatads.com
 0.0.0.0 yts.moatads.com
+0.0.0.0 zrurl.com
 
 #Spotify ad block
 #0.0.0.0 ap.spotify.com

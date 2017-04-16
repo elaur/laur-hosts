@@ -115,6 +115,7 @@
 0.0.0.0 s546.connectupdate.com
 0.0.0.0 s7.smartsupp.com
 0.0.0.0 sc02.alicdn.com
+0.0.0.0 sdk.adincube.com
 0.0.0.0 secure-gg.imrworldwide.com
 0.0.0.0 serve.mxapis.com
 0.0.0.0 smartsupp-widget-161959.c.cdn77.org
@@ -122,6 +123,7 @@
 0.0.0.0 special-promotions-uk.club
 0.0.0.0 spotx-match.dotomi.com
 0.0.0.0 srv1.clk-analytics.com
+0.0.0.0 ssl-realitateanet.count.brat-online.ro
 0.0.0.0 static.smartsupp.co
 0.0.0.0 static1.pandoras.ro
 0.0.0.0 sxp.mxptint.net
@@ -142,6 +144,7 @@
 0.0.0.0 urladviser.com
 0.0.0.0 usersync.videoamp.com
 0.0.0.0 v.jwpcdn.com
+0.0.0.0 vidads.in
 0.0.0.0 vol.trkdf.com
 0.0.0.0 winter-rewards.club
 0.0.0.0 writer.smartlook.com
@@ -159,6 +162,7 @@
 0.0.0.0 www.nextadvisor.com #under_review
 0.0.0.0 www.sfcckxdgfgzo.com
 0.0.0.0 www.zclxwzegqslr.com
+0.0.0.0 www14.smartadserver.com
 0.0.0.0 yt.moatads.com
 0.0.0.0 yts.moatads.com
 0.0.0.0 zrurl.com
@@ -334,6 +338,7 @@
 #auto referring
 2.beeg.com
 creative.xhamsterlive.com
+fuckupx160.megaporno.se
 m.perfectgirls.net
 oldyoungfuck.net
 p0.stripcdn.com

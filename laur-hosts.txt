@@ -165,6 +165,7 @@
 0.0.0.0 yt.moatads.com
 0.0.0.0 yts.moatads.com
 0.0.0.0 zrurl.com
+0.0.0.0 m2d.m2.ai
 
 #Spotify ad block
 #0.0.0.0 ap.spotify.com

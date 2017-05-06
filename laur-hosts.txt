@@ -166,6 +166,11 @@
 0.0.0.0 yts.moatads.com
 0.0.0.0 zrurl.com
 0.0.0.0 m2d.m2.ai
+0.0.0.0 adsassets.waze.com
+0.0.0.0 advil.waze.com
+0.0.0.0 venues.waze.com
+0.0.0.0 row-advil.waze.com
+0.0.0.0 advil.gcp.wazestg.com
 
 #Spotify ad block
 #0.0.0.0 ap.spotify.com

@@ -171,6 +171,10 @@
 0.0.0.0 venues.waze.com
 0.0.0.0 row-advil.waze.com
 0.0.0.0 advil.gcp.wazestg.com
+0.0.0.0 petametrics-cdn.petametricsinc.netdna-cdn.com
+0.0.0.0 query1.petametrics.com
+0.0.0.0 fastlane-adv.rubiconproject.com
+0.0.0.0 perf-optimized-by.rubiconproject.net.akadns.net
 
 #Spotify ad block
 #0.0.0.0 ap.spotify.com

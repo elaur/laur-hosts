@@ -9,6 +9,10 @@
 0.0.0.0 adexchangeprediction.com
 0.0.0.0 adkmob.com
 0.0.0.0 ads.converge-digital.com
+0.0.0.0 ads.gadget.ro
+0.0.0.0 adsassets.waze.com
+0.0.0.0 advil.gcp.wazestg.com
+0.0.0.0 advil.waze.com
 0.0.0.0 adx.g.doubleclick.net
 0.0.0.0 api.2performant.com
 0.0.0.0 app.davebestdeals.com
@@ -27,8 +31,10 @@
 0.0.0.0 cbsi.report-uri.io
 0.0.0.0 cdn.3lift.com
 0.0.0.0 cdn.adtrue.com
+0.0.0.0 cdn.baptive.pro
 0.0.0.0 cdn.beyondhosting.net
 0.0.0.0 cdn.hauleddes.com
+0.0.0.0 cdn.mxapis.com
 0.0.0.0 click.trkdf.com
 0.0.0.0 cm.ctnsnet.com
 0.0.0.0 cm.everesttech.net
@@ -51,6 +57,7 @@
 0.0.0.0 etfyguytdr.com
 0.0.0.0 ex.ibt.uk
 0.0.0.0 exchange.adtrue.com
+0.0.0.0 fastlane-adv.rubiconproject.com
 0.0.0.0 gak.webtoons.com
 0.0.0.0 gatewaynginx-davebestdeals-1862702698.us-west-2.elb.amazonaws.com
 0.0.0.0 global.apis.naver.com
@@ -78,6 +85,7 @@
 0.0.0.0 log.gds.mmstat.com
 0.0.0.0 lp.traders-community.com
 0.0.0.0 m.goadservices.com
+0.0.0.0 m2d.m2.ai
 0.0.0.0 match.adsby.bidtheatre.com
 0.0.0.0 mekoto.com
 0.0.0.0 mm.mobii.info
@@ -92,6 +100,8 @@
 0.0.0.0 p4p-enmatch.alibaba.com
 0.0.0.0 partner.mediawallahscript.com
 0.0.0.0 pdw-adf.userreport.com
+0.0.0.0 perf-optimized-by.rubiconproject.net.akadns.net
+0.0.0.0 petametrics-cdn.petametricsinc.netdna-cdn.com
 0.0.0.0 pixel-origin.mathtag.com
 0.0.0.0 pixel.ideaiotic.com
 0.0.0.0 pixel.onaudience.com
@@ -104,9 +114,11 @@
 0.0.0.0 pushstatic2.mxapis.com
 0.0.0.0 qualitysocialtargeting.liqwid.net
 0.0.0.0 query.jollywallet.com
+0.0.0.0 query1.petametrics.com
 0.0.0.0 rc-ext.rlcdn.com
 0.0.0.0 rec-beta.smartlook.com
 0.0.0.0 rec.smartlook.com
+0.0.0.0 row-advil.waze.com
 0.0.0.0 rp.gwallet.com
 0.0.0.0 rtbp-pixel.us.metanetwork.net
 0.0.0.0 rules.quantcount.com
@@ -116,6 +128,7 @@
 0.0.0.0 sc02.alicdn.com
 0.0.0.0 sdk.adincube.com
 0.0.0.0 secure-gg.imrworldwide.com
+0.0.0.0 secure.trafic.ro
 0.0.0.0 serve.mxapis.com
 0.0.0.0 smartsupp-widget-161959.c.cdn77.org
 0.0.0.0 source.invisioncloudstats.com
@@ -143,6 +156,7 @@
 0.0.0.0 urladviser.com
 0.0.0.0 usersync.videoamp.com
 0.0.0.0 v.jwpcdn.com
+0.0.0.0 venues.waze.com
 0.0.0.0 vidads.in
 0.0.0.0 vol.trkdf.com
 0.0.0.0 winter-rewards.club
@@ -165,16 +179,6 @@
 0.0.0.0 yt.moatads.com
 0.0.0.0 yts.moatads.com
 0.0.0.0 zrurl.com
-0.0.0.0 m2d.m2.ai
-0.0.0.0 adsassets.waze.com
-0.0.0.0 advil.waze.com
-0.0.0.0 venues.waze.com
-0.0.0.0 row-advil.waze.com
-0.0.0.0 advil.gcp.wazestg.com
-0.0.0.0 petametrics-cdn.petametricsinc.netdna-cdn.com
-0.0.0.0 query1.petametrics.com
-0.0.0.0 fastlane-adv.rubiconproject.com
-0.0.0.0 perf-optimized-by.rubiconproject.net.akadns.net
 
 #Spotify ad block
 #0.0.0.0 ap.spotify.com
@@ -248,8 +252,6 @@
 0.0.0.0 www.omaze.com
 0.0.0.0 thm.aws.rubiconproject.com
 0.0.0.0 flapi2.rubiconproject.com
-0.0.0.0 secure.trafic.ro
-0.0.0.0 ads.gadget.ro
 
 #Bad websites - fake, phising (soon)
 0.0.0.0 3x.ro
@@ -346,6 +348,10 @@
 
 #auto referring
 2.beeg.com
+cdn142.megaporno.se
+cdn150.megaporno.se
+cdn154.megaporno.se
+cdn158.megaporno.se
 creative.xhamsterlive.com
 fuckupx160.megaporno.se
 m.perfectgirls.net

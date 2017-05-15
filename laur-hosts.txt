@@ -180,6 +180,7 @@
 0.0.0.0 yts.moatads.com
 0.0.0.0 zrurl.com
 0.0.0.0 learnengs.com
+0.0.0.0 pepper.swat.io
 
 #Spotify ad block
 #0.0.0.0 ap.spotify.com

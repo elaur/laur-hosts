@@ -35,6 +35,7 @@
 0.0.0.0 cdn.beyondhosting.net
 0.0.0.0 cdn.hauleddes.com
 0.0.0.0 cdn.mxapis.com
+0.0.0.0 ckqkwhampiyb.com
 0.0.0.0 click.trkdf.com
 0.0.0.0 cm.ctnsnet.com
 0.0.0.0 cm.everesttech.net
@@ -47,6 +48,7 @@
 0.0.0.0 d3ieicw58ybon5.cloudfront.net
 0.0.0.0 d8f0l2cxoip4o.cloudfront.net
 0.0.0.0 data07.adlooxtracking.com
+0.0.0.0 direct.shodan.io
 0.0.0.0 djinst.com
 0.0.0.0 ds.reson8.com
 0.0.0.0 e.crashlytics.com
@@ -60,6 +62,7 @@
 0.0.0.0 fastlane-adv.rubiconproject.com
 0.0.0.0 gak.webtoons.com
 0.0.0.0 gatewaynginx-davebestdeals-1862702698.us-west-2.elb.amazonaws.com
+0.0.0.0 givmuvbacwui.com
 0.0.0.0 global.apis.naver.com
 0.0.0.0 go.eu-reliabletracking.net
 0.0.0.0 go.we-re-almost-there.com
@@ -75,11 +78,13 @@
 0.0.0.0 install.stream-it.online
 0.0.0.0 invisioncic.com
 0.0.0.0 invisioncloudstats.com
+0.0.0.0 irbkobqlrbtt.com
 0.0.0.0 istatic.bestpriceninja.com
 0.0.0.0 istatic.eshopcomp.com
 0.0.0.0 iwantuonly.com
 0.0.0.0 jolic2.com
 0.0.0.0 jsgnr.davebestdeals.com
+0.0.0.0 learnengs.com
 0.0.0.0 letslowbefast.world
 0.0.0.0 loc.map.baidu.com
 0.0.0.0 log.gds.mmstat.com
@@ -100,6 +105,7 @@
 0.0.0.0 p4p-enmatch.alibaba.com
 0.0.0.0 partner.mediawallahscript.com
 0.0.0.0 pdw-adf.userreport.com
+0.0.0.0 pepper.swat.io
 0.0.0.0 perf-optimized-by.rubiconproject.net.akadns.net
 0.0.0.0 petametrics-cdn.petametricsinc.netdna-cdn.com
 0.0.0.0 pixel-origin.mathtag.com
@@ -159,6 +165,7 @@
 0.0.0.0 venues.waze.com
 0.0.0.0 vidads.in
 0.0.0.0 vol.trkdf.com
+0.0.0.0 whsldqctrvuk.com
 0.0.0.0 winter-rewards.club
 0.0.0.0 writer.smartlook.com
 0.0.0.0 www-googletagmanager.l.google.com
@@ -173,15 +180,13 @@
 0.0.0.0 www.match.com #under_review
 0.0.0.0 www.mb104.com
 0.0.0.0 www.nextadvisor.com #under_review
+0.0.0.0 www.rafeproject.com
 0.0.0.0 www.sfcckxdgfgzo.com
 0.0.0.0 www.zclxwzegqslr.com
 0.0.0.0 www14.smartadserver.com
 0.0.0.0 yt.moatads.com
 0.0.0.0 yts.moatads.com
 0.0.0.0 zrurl.com
-0.0.0.0 learnengs.com
-0.0.0.0 pepper.swat.io
-0.0.0.0 direct.shodan.io
 
 #Spotify ad block
 #0.0.0.0 ap.spotify.com

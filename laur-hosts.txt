@@ -245,7 +245,6 @@
 0.0.0.0 prod.spotify-heads.map.fastlylb.net
 0.0.0.0 prod.spotify.map.fastlylb.net
 0.0.0.0 pubads.g.doubleclick.net
-0.0.0.0 redirector.gvt1.com
 0.0.0.0 s0.2mdn.net
 0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 showads33000.pubmatic.com
@@ -356,10 +355,18 @@
 
 #auto referring
 2.beeg.com
+cdn140.megaporno.se
 cdn142.megaporno.se
+cdn143.megaporno.se
+cdn144.megaporno.se
+cdn147.megaporno.se
 cdn150.megaporno.se
+cdn151.megaporno.se
 cdn154.megaporno.se
+cdn155.megaporno.se
+cdn157.megaporno.se
 cdn158.megaporno.se
+cia.gov
 creative.xhamsterlive.com
 fuckupx160.megaporno.se
 m.perfectgirls.net
@@ -376,8 +383,3 @@ www.pornverified.com
 www.sexfreedomtube.com
 www.thumbnail-preview.com
 www.youtubelike.com
-cdn151.megaporno.se
-cdn157.megaporno.se
-cdn143.megaporno.se
-cdn155.megaporno.se
-cia.gov

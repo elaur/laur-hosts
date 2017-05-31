@@ -113,6 +113,7 @@
 0.0.0.0 pixel.onaudience.com
 0.0.0.0 platform1.admobe.com
 0.0.0.0 pnrff.enouncestwqgstye.top
+0.0.0.0 pompetegain.com
 0.0.0.0 popserve.adscpm.net
 0.0.0.0 powerhouse.go2cloud.org
 0.0.0.0 pubmatic2waycm-atl.netmng.com
@@ -135,6 +136,7 @@
 0.0.0.0 sdk.adincube.com
 0.0.0.0 secure-gg.imrworldwide.com
 0.0.0.0 secure.trafic.ro
+0.0.0.0 seness.info
 0.0.0.0 serve.mxapis.com
 0.0.0.0 smartsupp-widget-161959.c.cdn77.org
 0.0.0.0 source.invisioncloudstats.com
@@ -144,6 +146,7 @@
 0.0.0.0 ssl-realitateanet.count.brat-online.ro
 0.0.0.0 static.smartsupp.co
 0.0.0.0 static1.pandoras.ro
+0.0.0.0 stiripesursero.count.brat-online.ro
 0.0.0.0 sxp.mxptint.net
 0.0.0.0 sync.adotmob.com
 0.0.0.0 sync.analytics.brandcrumb.com
@@ -187,7 +190,6 @@
 0.0.0.0 yt.moatads.com
 0.0.0.0 yts.moatads.com
 0.0.0.0 zrurl.com
-0.0.0.0 stiripesursero.count.brat-online.ro
 
 #Youtube
 clients6.google.com
@@ -367,32 +369,32 @@ r4.sn-vgqs7nez.googlevideo.com
 0.0.0.0 www.directorproduse.ro
 
 #auto referring
-2.beeg.com
-cdn140.megaporno.se
-cdn142.megaporno.se
-cdn143.megaporno.se
-cdn144.megaporno.se
-cdn147.megaporno.se
-cdn150.megaporno.se
-cdn151.megaporno.se
-cdn154.megaporno.se
-cdn155.megaporno.se
-cdn157.megaporno.se
-cdn158.megaporno.se
-cia.gov
-creative.xhamsterlive.com
-fuckupx160.megaporno.se
-m.perfectgirls.net
-oldyoungfuck.net
-p0.stripcdn.com
-p1.stripcdn.com
-p2.stripcdn.com
-tools.beeg.com
-www.driveprontube.com
-www.freetoptube.com
-www.home-made-videos.com
-www.porn4real.com
-www.pornverified.com
-www.sexfreedomtube.com
-www.thumbnail-preview.com
-www.youtubelike.com
+0.0.0.0 2.beeg.com
+0.0.0.0 cdn140.megaporno.se
+0.0.0.0 cdn142.megaporno.se
+0.0.0.0 cdn143.megaporno.se
+0.0.0.0 cdn144.megaporno.se
+0.0.0.0 cdn147.megaporno.se
+0.0.0.0 cdn150.megaporno.se
+0.0.0.0 cdn151.megaporno.se
+0.0.0.0 cdn154.megaporno.se
+0.0.0.0 cdn155.megaporno.se
+0.0.0.0 cdn157.megaporno.se
+0.0.0.0 cdn158.megaporno.se
+0.0.0.0 cia.gov
+0.0.0.0 creative.xhamsterlive.com
+0.0.0.0 fuckupx160.megaporno.se
+0.0.0.0 m.perfectgirls.net
+0.0.0.0 oldyoungfuck.net
+0.0.0.0 p0.stripcdn.com
+0.0.0.0 p1.stripcdn.com
+0.0.0.0 p2.stripcdn.com
+0.0.0.0 tools.beeg.com
+0.0.0.0 www.driveprontube.com
+0.0.0.0 www.freetoptube.com
+0.0.0.0 www.home-made-videos.com
+0.0.0.0 www.porn4real.com
+0.0.0.0 www.pornverified.com
+0.0.0.0 www.sexfreedomtube.com
+0.0.0.0 www.thumbnail-preview.com
+0.0.0.0 www.youtubelike.com

@@ -3,6 +3,10 @@
 # Last Update: 25-03-2017
 
 # Ads servers + Ads redirects(bad ads because some redirect to malware software)
+0.0.0.0 core1.adunity.com
+0.0.0.0 adservingfactory.com
+0.0.0.0 www.adservingfactory.com
+0.0.0.0 beacon-eu-ams3.rubiconproject.com
 0.0.0.0 2parale.ro
 0.0.0.0 2performant.com
 0.0.0.0 aa.agkn.com

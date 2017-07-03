@@ -198,6 +198,8 @@
 0.0.0.0 a.adtechus.com
 0.0.0.0 content.adunity.com
 0.0.0.0 pwa.grgs.ro
+0.0.0.0 emag-bud.gravityrd-services.com
+0.0.0.0 gravityrd-services.com
 
 #Youtube
 #0.0.0.0 clients6.google.com

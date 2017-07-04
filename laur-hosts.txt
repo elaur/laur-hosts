@@ -200,6 +200,7 @@
 0.0.0.0 pwa.grgs.ro
 0.0.0.0 emag-bud.gravityrd-services.com
 0.0.0.0 gravityrd-services.com
+0.0.0.0 tracking.retargeting.biz
 
 #Youtube
 #0.0.0.0 clients6.google.com

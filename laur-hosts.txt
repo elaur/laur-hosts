@@ -1,5 +1,5 @@
 # My personal hosts list
-# I'm using this list with Pi-Hole to block all ads on my network.
+# I'm using this list with Pi Hole to block all ads on my network.
 # Last Update: 25-03-2017
 
 # Ads servers + Ads redirects(bad ads because some redirect to malware software)

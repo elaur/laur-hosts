@@ -201,6 +201,10 @@
 0.0.0.0 emag-bud.gravityrd-services.com
 0.0.0.0 gravityrd-services.com
 0.0.0.0 tracking.retargeting.biz
+0.0.0.0 ad.tagdelivery.com
+0.0.0.0 tagdelivery.com
+0.0.0.0 pa.7w.ro
+0.0.0.0 7w.ro
 
 #Youtube
 #0.0.0.0 clients6.google.com

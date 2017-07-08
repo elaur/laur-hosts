@@ -3,19 +3,19 @@
 # Last Update: 25-03-2017
 
 # Ads servers + Ads redirects(bad ads because some redirect to malware software)
-0.0.0.0 activum.nu
-0.0.0.0 core1.adunity.com
-0.0.0.0 adservingfactory.com
-0.0.0.0 www.adservingfactory.com
-0.0.0.0 beacon-eu-ams3.rubiconproject.com
 0.0.0.0 2parale.ro
 0.0.0.0 2performant.com
+0.0.0.0 7w.ro
+0.0.0.0 a.adtechus.com
 0.0.0.0 aa.agkn.com
+0.0.0.0 activum.nu
+0.0.0.0 ad.tagdelivery.com
 0.0.0.0 adexchangeprediction.com
 0.0.0.0 adkmob.com
 0.0.0.0 ads.converge-digital.com
 0.0.0.0 ads.gadget.ro
 0.0.0.0 adsassets.waze.com
+0.0.0.0 adservingfactory.com
 0.0.0.0 advil.gcp.wazestg.com
 0.0.0.0 advil.waze.com
 0.0.0.0 adx.g.doubleclick.net
@@ -28,6 +28,7 @@
 0.0.0.0 app5.letslowbefast.world
 0.0.0.0 assets.mxapis.com
 0.0.0.0 awy.halonringside.download
+0.0.0.0 beacon-eu-ams3.rubiconproject.com
 0.0.0.0 beacon.deepintent.com
 0.0.0.0 bratpool02.brat-online.ro
 0.0.0.0 buzzadnetwork.com
@@ -46,6 +47,8 @@
 0.0.0.0 cm.everesttech.net
 0.0.0.0 codes.taggify.net
 0.0.0.0 collect.mxapis.com
+0.0.0.0 content.adunity.com
+0.0.0.0 core1.adunity.com
 0.0.0.0 count-server-lb.global.prod1.sharethis.net
 0.0.0.0 d256hjiwzu5doi.cloudfront.net
 0.0.0.0 d2fashanjl7d9f.cloudfront.net
@@ -58,6 +61,7 @@
 0.0.0.0 ds.reson8.com
 0.0.0.0 e.crashlytics.com
 0.0.0.0 easylist.club
+0.0.0.0 emag-bud.gravityrd-services.com
 0.0.0.0 embed.bannerflow.com
 0.0.0.0 endpoint1.collection.eu.sumologic.com
 0.0.0.0 eshopcomp.com
@@ -73,6 +77,7 @@
 0.0.0.0 go.we-re-almost-there.com
 0.0.0.0 godaddy.sp1.convertro.com
 0.0.0.0 goodmacfaster.club
+0.0.0.0 gravityrd-services.com
 0.0.0.0 hqt.enouncestwqgstye.top
 0.0.0.0 html.usagc.org
 0.0.0.0 i.cams.beeg.com
@@ -108,11 +113,13 @@
 0.0.0.0 p.jwpcdn.com
 0.0.0.0 p.videologygroup.com
 0.0.0.0 p4p-enmatch.alibaba.com
+0.0.0.0 pa.7w.ro
 0.0.0.0 partner.mediawallahscript.com
 0.0.0.0 pdw-adf.userreport.com
 0.0.0.0 pepper.swat.io
 0.0.0.0 perf-optimized-by.rubiconproject.net.akadns.net
 0.0.0.0 petametrics-cdn.petametricsinc.netdna-cdn.com
+0.0.0.0 ping.putlocker.rs
 0.0.0.0 pixel-origin.mathtag.com
 0.0.0.0 pixel.ideaiotic.com
 0.0.0.0 pixel.onaudience.com
@@ -124,6 +131,7 @@
 0.0.0.0 pubmatic2waycm-atl.netmng.com
 0.0.0.0 pushstatic.mxapis.com
 0.0.0.0 pushstatic2.mxapis.com
+0.0.0.0 pwa.grgs.ro
 0.0.0.0 qualitysocialtargeting.liqwid.net
 0.0.0.0 query.jollywallet.com
 0.0.0.0 query1.petametrics.com
@@ -158,12 +166,14 @@
 0.0.0.0 t.connectupdate.com
 0.0.0.0 t.local-finders.com
 0.0.0.0 t.sharethis.com
+0.0.0.0 tagdelivery.com
 0.0.0.0 tags.wdc.bluekai.com
 0.0.0.0 track-eu.adformnet.akadns.net
 0.0.0.0 track.adtrue.com
 0.0.0.0 trackedgr8.com
 0.0.0.0 tracker.trafficktrack.com
 0.0.0.0 tracking.overwolf.com
+0.0.0.0 tracking.retargeting.biz
 0.0.0.0 trafficktrack.com
 0.0.0.0 trkdf.com
 0.0.0.0 unibet-unibet.bannerflow.com
@@ -178,6 +188,7 @@
 0.0.0.0 writer.smartlook.com
 0.0.0.0 www-googletagmanager.l.google.com
 0.0.0.0 www.2parale.ro
+0.0.0.0 www.adservingfactory.com
 0.0.0.0 www.autotrader.com #under_review
 0.0.0.0 www.buzzadnetwork.com
 0.0.0.0 www.comparecards.com #under_review
@@ -195,16 +206,6 @@
 0.0.0.0 yt.moatads.com
 0.0.0.0 yts.moatads.com
 0.0.0.0 zrurl.com
-0.0.0.0 a.adtechus.com
-0.0.0.0 content.adunity.com
-0.0.0.0 pwa.grgs.ro
-0.0.0.0 emag-bud.gravityrd-services.com
-0.0.0.0 gravityrd-services.com
-0.0.0.0 tracking.retargeting.biz
-0.0.0.0 ad.tagdelivery.com
-0.0.0.0 tagdelivery.com
-0.0.0.0 pa.7w.ro
-0.0.0.0 7w.ro
 
 #Youtube
 #0.0.0.0 clients6.google.com

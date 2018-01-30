@@ -387,6 +387,9 @@
 0.0.0.0 williams-sonona.com
 0.0.0.0 www.directorproduse.ro
 
+# anti-mining
+0.0.0.0 authedwebmine.cz
+
 #auto referring
 0.0.0.0 2.beeg.com
 0.0.0.0 cdn140.megaporno.se

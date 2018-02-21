@@ -5,6 +5,7 @@
 # Ads servers + Ads redirects(bad ads because some redirect to malware software)
 0.0.0.0 tributedz.com
 0.0.0.0 suspents.info
+0.0.0.0 www.adexchangetracker.com
 0.0.0.0 xml.admetix.com
 0.0.0.0 admetix.com
 0.0.0.0 2parale.ro

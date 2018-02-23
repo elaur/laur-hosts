@@ -1,4 +1,4 @@
-0.0.0.0 # atacker 79.136.51.13 (h-51-13.a157.priv.bahnhof.se)
+# atacker 79.136.51.13 (h-51-13.a157.priv.bahnhof.se)
 0.0.0.0 agencies.wallet.airpay.co.id
 0.0.0.0 alone.search.twitter.com
 0.0.0.0 andale.ssfe.trendmicro.co.uk

@@ -92,3 +92,12 @@
 0.0.0.0 wheat.trustpilot.com
 0.0.0.0 www54.sbab.se
 0.0.0.0 x6n.just-bush.pipedrive.com
+0.0.0.0 6ydtor0h8sdi6s.holding.kth.se
+0.0.0.0 2j9.penza.hipchat.com
+0.0.0.0 pinterest.unity3d.com
+0.0.0.0 management.schibsted.com
+0.0.0.0 w5o72yv.axess.stanford.edu
+0.0.0.0 0x4.assu.stanford.edu
+0.0.0.0 fg.www.velasrl.com
+0.0.0.0 buy.statuspage.io
+0.0.0.0 ddh.statuspage.io

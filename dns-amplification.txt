@@ -101,3 +101,4 @@
 0.0.0.0 fg.www.velasrl.com
 0.0.0.0 buy.statuspage.io
 0.0.0.0 ddh.statuspage.io
+0.0.0.0 rvnrkozqn4qg6.staylivecommunity.slack.com

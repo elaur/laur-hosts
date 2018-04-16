@@ -214,6 +214,7 @@
 0.0.0.0 zrurl.com
 0.0.0.0 nowtestpc.thesitefreeofpatchescontentingall.bid
 0.0.0.0 thesitefreeofpatchescontentingall.bid
+0.0.0.0 z6naousb.com
 
 #Youtube
 #0.0.0.0 clients6.google.com

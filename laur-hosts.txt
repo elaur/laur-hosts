@@ -3,6 +3,7 @@
 # Last Update: 25-03-2017
 
 # Ads servers + Ads redirects(bad ads because some redirect to malware software)
+0.0.0.0 preferredain.com
 0.0.0.0 tributedz.com
 0.0.0.0 gigaonclick.com
 0.0.0.0 suspents.info

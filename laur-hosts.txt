@@ -1,6 +1,6 @@
 # My personal hosts list
 # I'm using this list with Pi Hole to block all ads on my network.
-# Last Update: 25-03-2017
+# Last Update: Wed 24 Oct 21:43
 
 # Ads servers + Ads redirects(bad ads because some redirect to malware software)
 0.0.0.0 2parale.ro

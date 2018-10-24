@@ -3,13 +3,6 @@
 # Last Update: 25-03-2017
 
 # Ads servers + Ads redirects(bad ads because some redirect to malware software)
-0.0.0.0 preferredain.com
-0.0.0.0 tributedz.com
-0.0.0.0 gigaonclick.com
-0.0.0.0 suspents.info
-0.0.0.0 www.adexchangetracker.com
-0.0.0.0 xml.admetix.com
-0.0.0.0 admetix.com
 0.0.0.0 2parale.ro
 0.0.0.0 2performant.com
 0.0.0.0 7w.ro
@@ -19,6 +12,7 @@
 0.0.0.0 ad.tagdelivery.com
 0.0.0.0 adexchangeprediction.com
 0.0.0.0 adkmob.com
+0.0.0.0 admetix.com
 0.0.0.0 ads.converge-digital.com
 0.0.0.0 ads.gadget.ro
 0.0.0.0 adsassets.waze.com
@@ -37,6 +31,7 @@
 0.0.0.0 awy.halonringside.download
 0.0.0.0 beacon-eu-ams3.rubiconproject.com
 0.0.0.0 beacon.deepintent.com
+0.0.0.0 bodelen.com
 0.0.0.0 bratpool02.brat-online.ro
 0.0.0.0 buzzadnetwork.com
 0.0.0.0 c.adskeeper.co.uk
@@ -78,8 +73,10 @@
 0.0.0.0 fastlane-adv.rubiconproject.com
 0.0.0.0 gak.webtoons.com
 0.0.0.0 gatewaynginx-davebestdeals-1862702698.us-west-2.elb.amazonaws.com
+0.0.0.0 gigaonclick.com
 0.0.0.0 givmuvbacwui.com
 0.0.0.0 global.apis.naver.com
+0.0.0.0 glotchat.click
 0.0.0.0 go.eu-reliabletracking.net
 0.0.0.0 go.we-re-almost-there.com
 0.0.0.0 godaddy.sp1.convertro.com
@@ -116,6 +113,7 @@
 0.0.0.0 nelo2-col.nhncorp.com
 0.0.0.0 newsbig.club
 0.0.0.0 nexus-websocket-b.intercom.io
+0.0.0.0 nowtestpc.thesitefreeofpatchescontentingall.bid
 0.0.0.0 owlanalytics.io
 0.0.0.0 p.jwpcdn.com
 0.0.0.0 p.videologygroup.com
@@ -135,6 +133,7 @@
 0.0.0.0 pompetegain.com
 0.0.0.0 popserve.adscpm.net
 0.0.0.0 powerhouse.go2cloud.org
+0.0.0.0 preferredain.com
 0.0.0.0 pubmatic2waycm-atl.netmng.com
 0.0.0.0 pushstatic.mxapis.com
 0.0.0.0 pushstatic2.mxapis.com
@@ -167,6 +166,7 @@
 0.0.0.0 static.smartsupp.co
 0.0.0.0 static1.pandoras.ro
 0.0.0.0 stiripesursero.count.brat-online.ro
+0.0.0.0 suspents.info
 0.0.0.0 sxp.mxptint.net
 0.0.0.0 sync.adotmob.com
 0.0.0.0 sync.analytics.brandcrumb.com
@@ -175,6 +175,7 @@
 0.0.0.0 t.sharethis.com
 0.0.0.0 tagdelivery.com
 0.0.0.0 tags.wdc.bluekai.com
+0.0.0.0 thesitefreeofpatchescontentingall.bid
 0.0.0.0 track-eu.adformnet.akadns.net
 0.0.0.0 track.adtrue.com
 0.0.0.0 trackedgr8.com
@@ -182,6 +183,7 @@
 0.0.0.0 tracking.overwolf.com
 0.0.0.0 tracking.retargeting.biz
 0.0.0.0 trafficktrack.com
+0.0.0.0 tributedz.com
 0.0.0.0 trkdf.com
 0.0.0.0 unibet-unibet.bannerflow.com
 0.0.0.0 urladviser.com
@@ -195,6 +197,7 @@
 0.0.0.0 writer.smartlook.com
 0.0.0.0 www-googletagmanager.l.google.com
 0.0.0.0 www.2parale.ro
+0.0.0.0 www.adexchangetracker.com
 0.0.0.0 www.adservingfactory.com
 0.0.0.0 www.autotrader.com #under_review
 0.0.0.0 www.buzzadnetwork.com
@@ -210,12 +213,11 @@
 0.0.0.0 www.sfcckxdgfgzo.com
 0.0.0.0 www.zclxwzegqslr.com
 0.0.0.0 www14.smartadserver.com
+0.0.0.0 xml.admetix.com
 0.0.0.0 yt.moatads.com
 0.0.0.0 yts.moatads.com
-0.0.0.0 zrurl.com
-0.0.0.0 nowtestpc.thesitefreeofpatchescontentingall.bid
-0.0.0.0 thesitefreeofpatchescontentingall.bid
 0.0.0.0 z6naousb.com
+0.0.0.0 zrurl.com
 
 #Youtube
 #0.0.0.0 clients6.google.com
@@ -262,6 +264,7 @@
 0.0.0.0 desktop.spotify.com
 0.0.0.0 doubleclick.net
 0.0.0.0 ds.serving-sys.com
+0.0.0.0 flapi2.rubiconproject.com
 0.0.0.0 gads.pubmatic.com
 0.0.0.0 geo3.ggpht.com
 0.0.0.0 googleads.g.doubleclick.net
@@ -290,6 +293,7 @@
 0.0.0.0 showads33000.pubmatic.com
 0.0.0.0 spclient.wg.spotify.com
 0.0.0.0 sto3.spotify.com
+0.0.0.0 thm.aws.rubiconproject.com
 0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 video-ad-stats.googlesyndication.com
 0.0.0.0 weblb-wg.gslb.spotify.com
@@ -297,8 +301,6 @@
 0.0.0.0 www.googleadservices.com
 0.0.0.0 www.googletagservices.com
 0.0.0.0 www.omaze.com
-0.0.0.0 thm.aws.rubiconproject.com
-0.0.0.0 flapi2.rubiconproject.com
 
 #Bad websites - fake, phising (soon)
 0.0.0.0 3x.ro
@@ -394,9 +396,9 @@
 0.0.0.0 www.directorproduse.ro
 
 # anti-mining
+0.0.0.0 authedmine.com
 0.0.0.0 authedwebmine.cz
 0.0.0.0 webmine.cz
-0.0.0.0 authedmine.com
 
 #auto referring
 0.0.0.0 2.beeg.com

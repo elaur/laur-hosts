@@ -3,6 +3,7 @@
 # Last Update: Wed 24 Oct 21:43
 
 # Ads servers + Ads redirects(bad ads because some redirect to malware software)
+0.0.0.0 gersairg.net
 0.0.0.0 track.cpa.tpgrn.com
 0.0.0.0 gaitheed.com
 0.0.0.0 2parale.ro

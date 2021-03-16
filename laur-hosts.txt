@@ -224,6 +224,7 @@
 
 
 # Tracking & Analitics
+0.0.0.0 files.upscore.com
 0.0.0.0 hit-pool.upscore.com
 
 #Youtube

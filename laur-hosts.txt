@@ -222,6 +222,10 @@
 0.0.0.0 z6naousb.com
 0.0.0.0 zrurl.com
 
+
+# Tracking & Analitics
+0.0.0.0 hit-pool.upscore.com
+
 #Youtube
 #0.0.0.0 clients6.google.com
 0.0.0.0 r1---sn-vgqsen7z.googlevideo.com
